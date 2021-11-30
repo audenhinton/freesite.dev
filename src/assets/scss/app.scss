@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&display=swap');
+
+@import "../../../node_modules/bootstrap/scss/bootstrap.scss";
+
+body, html {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+* {
+    font-family: "Inter", sans-serif;
+    color: #303030;
+}
